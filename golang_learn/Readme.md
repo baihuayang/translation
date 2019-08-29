@@ -21,3 +21,5 @@ gotest 13.7 -- 13.9    性能分析 13.10
 
 go chan 实现信号量
 go chan 生产消费
+
+go test goroutine 14.6 基准测试
