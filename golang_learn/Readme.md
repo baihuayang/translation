@@ -23,3 +23,14 @@ go chan 实现信号量
 go chan 生产消费
 
 go test goroutine 14.6 基准测试
+
+
+##############
+观看顺序
+前三部分顺序看
+第四部分 先看19章 项目实践
+
+
+读写锁，java实现
+
+Chapter version 5 版本 实现
